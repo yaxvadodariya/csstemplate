@@ -1,7 +1,7 @@
 /* Style for Title and description */
 .title{
         margin: 10px 5px;
-        color: TEAL;
+        color: ORANGE;
         font-weight: bold;
         font-size: 1.1em;
 }
@@ -22,7 +22,7 @@
         border: 1px solid rgba(0, 0, 0, 0);
         border-radius: 2px;
 
-        background-color: CADETBLUE;
+        background-color: ORANGE;
         color: white !important;
 
         font-size: 11px;
